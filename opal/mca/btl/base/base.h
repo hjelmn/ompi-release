@@ -30,6 +30,7 @@
 #include "opal/mca/mca.h"
 #include "opal/mca/base/mca_base_framework.h"
 #include "opal/mca/btl/btl.h"
+#include "opal/mca/base/mca_base_var_enum.h"
 
 BEGIN_C_DECLS
 
